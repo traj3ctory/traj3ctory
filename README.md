@@ -1,7 +1,7 @@
 ### Hi, I am David ✨ 	:man_technologist:, 
 > A Software Developer based in Abuja, Nigeria :nigeria: . <br />
 > I am always eager to learn new technologies :computer: and develop new projects.
-
+<!-- 
   <p align="center">
     <a href="https://github.com/traj3ctory/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/traj3ctory/github-readme-stats?color=0088ff" />
@@ -10,7 +10,7 @@
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/traj3ctory/github-readme-stats?color=0088ff" />
     </a>
     <br />
-    <br />
+    <br /> -->
   </p>
   
   ## Menu
