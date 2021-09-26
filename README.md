@@ -3,7 +3,7 @@
 > I am always eager to learn new technologies :computer: and develop new projects.
 
   <p align="center">
-    <a href="https://github.com/Osalumense/github-readme-stats/issues">
+    <a href="https://github.com/traj3ctory/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/traj3ctory/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://github.com/traj3ctory/github-readme-stats/pulls">
@@ -34,6 +34,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
     <img src="https://img.shields.io/badge/React-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Word-Press-black?style=for-the-badge&logo=wordpress&logoColor=white" />
  </p>
 
 
@@ -73,7 +74,7 @@
 <a href="mailto:davidbenard.bd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
  </a> 
- <a href="https://twitter.com/davely" target="_blank">
+ <a href="https://twitter.com/dav3ly" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  </a>
   
