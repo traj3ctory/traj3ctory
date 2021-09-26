@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hi, I am Stephen ✨ 	:man_technologist:, 
+### Hi, I am David ✨ 	:man_technologist:, 
 > A Software Developer based in Abuja, Nigeria :nigeria: . <br />
 > I am always eager to learn new technologies :computer: and develop new projects.
 
@@ -42,7 +40,7 @@
 ### My Github Stats 
 - - - -
   
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=traj3ctory&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/traj3ctory)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=traj3ctory&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/traj3ctory)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traj3ctory&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/traj3ctory)
 
@@ -64,26 +62,18 @@
     WakaTime Dashboard
   </summary>
   <p>
-    <!-- <img src="https://wakatime.com/share/@steavean/8ba047a2-5f4f-488b-bcec-04dfd6ea44ce.svg" height="400" width="600"> -->
-    <figure><embed src="https://wakatime.com/share/@davebenard/10023645-ef3f-4fb0-b36e-0bd2e0912b17.svg"></embed></figure>
+    <img src="https://wakatime.com/share/@davebenard/10023645-ef3f-4fb0-b36e-0bd2e0912b17.svg" height="400" width="600">
   </p>
 </details>
   
  ### 📫 You can reach me here:  
-<a href="https://www.linkedin.com/in/akugbe-stephen/" target="_blank">
+<a href="https://www.linkedin.com/in/david-benard-196961121/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://www.instagram.com/_a_stephen/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-<a href="mailto:akugbestephen3@gmail.com" target="_blank">
+<a href="mailto:davidbenard.bd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
- <a href="https://dev.to/osalumense" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
- </a>
- 
- <a href="https://twitter.com/Itz_Steavean" target="_blank">
+ </a> 
+ <a href="https://twitter.com/davely" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  </a>
   
@@ -96,21 +86,6 @@
 
 <!--
 **Osalumense/Osalumense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**traj3ctory/traj3ctory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
