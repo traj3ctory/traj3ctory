@@ -58,14 +58,14 @@
 
 ## Wakatime Stats
 <!-- > Expand to see details -->
-<details>
+<div>
   <summary> 
     WakaTime Dashboard
   </summary>
   <p>
     <img src="https://wakatime.com/share/@davebenard/10023645-ef3f-4fb0-b36e-0bd2e0912b17.svg" height="400" width="600">
   </p>
-</details>
+</div>
   
  ### 📫 You can reach me here:  
 <a href="https://www.linkedin.com/in/david-benard-196961121/" target="_blank">
