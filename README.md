@@ -57,7 +57,7 @@
 </details>
 
 ## Wakatime Stats
-> Expand to see details
+<!-- > Expand to see details -->
 <details>
   <summary> 
     WakaTime Dashboard
@@ -86,7 +86,7 @@
 
 
 <!--
-**Osalumense/Osalumense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Traj3ctory/Traj3ctory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
