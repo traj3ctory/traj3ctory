@@ -47,9 +47,9 @@
 ### My Github Stats 
 - - - -
   
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=traj3ctory&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/traj3ctory)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=traj3ctory&count_private=true&show_icons=true&theme=radical)](https://github.com/traj3ctory)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traj3ctory&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/traj3ctory)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traj3ctory&langs_count=8&layout=compact&theme=radical)](https://github.com/traj3ctory)
 
 ## Github Trophies
 > Expand to see my Github trophies 
