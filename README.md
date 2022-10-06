@@ -58,7 +58,7 @@
     Github Trophies
   </summary>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=traj3ctory&theme=radical&column=2">
+    <img src="https://github-profile-trophy.vercel.app/?username=traj3ctory&theme=radical&column=6">
   </p>
 </details>
 
