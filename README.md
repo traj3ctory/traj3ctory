@@ -1,7 +1,9 @@
-### Hi, I am David ✨ 	:man_technologist:, 
+### Hi, I am David ✨ :man_technologist:,
+
 > A Software Engineer based in Abuja, Nigeria :nigeria: . <br />
 > I am always eager to learn new technologies :computer: and develop new projects.
-<!-- 
+
+<!--
   <p align="center">
     <a href="https://github.com/traj3ctory/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/traj3ctory/github-readme-stats?color=0088ff" />
@@ -21,39 +23,34 @@
   - [📱 Contact](#-You-can-reach-me-here)
 
 ### Technologies
-- - - -
+
+---
+
  <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<!--     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> -->
-<!--     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-646464?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postgres-646464?style=for-the-badge&logo=postgres&logoColor=white" />
-<!--     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> -->
-<!--     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> -->
-<!--     <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" /> -->
-<!--     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> -->
-<!--     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> -->
-<!--     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /> -->
-<!--     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> -->
-<!--     <img src="https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
  </p>
 
+### My Github Stats
 
-### My Github Stats 
-- - - -
-  
+---
+
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=traj3ctory&count_private=true&show_icons=true&theme=radical)](https://github.com/traj3ctory)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traj3ctory&langs_count=8&layout=compact&theme=radical)](https://github.com/traj3ctory)
 
 ## Github Trophies
-> Expand to see my Github trophies 
+
+> Expand to see my Github trophies
+
 <details>
   <summary> 
     Github Trophies
@@ -64,6 +61,7 @@
 </details>
 
 ## Wakatime Stats
+
 <!-- > Expand to see details -->
 <div>
   <summary> 
@@ -84,12 +82,6 @@
  <a href="https://twitter.com/dav3ly" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  </a>
-  
-
-
-
-
-
 
 
 <!--
