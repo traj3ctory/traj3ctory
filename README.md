@@ -41,11 +41,13 @@
 
 ### My Github Stats
 
----
+- - - -
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=traj3ctory&count_private=true&show_icons=true&theme=radical)](https://github.com/traj3ctory)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traj3ctory&langs_count=8&layout=compact&theme=radical)](https://github.com/traj3ctory)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=traj3ctory&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="traj3ctory's streak" /></p>
 
 ## Github Trophies
 
