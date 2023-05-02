@@ -1,30 +1,26 @@
 ### Hi, I am David ✨ :man_technologist:,
 
-> A Software Engineer based in Abuja, Nigeria :nigeria: . <br />
-> I am always eager to learn new technologies :computer: and develop new projects.
+```
+=> A Software Engineer based in Abuja, Nigeria :nigeria: . <br />
+=> I am always eager to learn new technologies :computer: and develop new projects.
+```
 
-<!--
-  <p align="center">
-    <a href="https://github.com/traj3ctory/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/traj3ctory/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/traj3ctory/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/traj3ctory/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br /> -->
-  </p>
-  
-  ## Menu
-  - [Technology Stack](#technologies)
-  - [Github Stats](#my-github-stats)
-  - [Github Trophies](#github-trophies)
-  - [:stopwatch: Wakatime Stats](#wakatime-stats)
-  - [📱 Contact](#-You-can-reach-me-here)
+  <br />
+
+## Menu
+
+- [Technology Stack](#technologies)
+- [Github Stats](#my-github-stats)
+- [Github Trophies](#github-trophies)
+- [:stopwatch: Wakatime Stats](#wakatime-stats)
+- [📱 Contact](#-You-can-reach-me-here)
+<br />
+<hr />
+<br />
 
 ### Technologies
 
----
+<br />
 
  <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -38,16 +34,22 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
  </p>
+<br />
+<hr />
+<br />
 
 ### My Github Stats
 
-- - - -
+<br />
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=traj3ctory&count_private=true&show_icons=true&theme=radical)](https://github.com/traj3ctory)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=traj3ctory&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/traj3ctory)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traj3ctory&langs_count=8&layout=compact&theme=radical)](https://github.com/traj3ctory)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traj3ctory&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/traj3ctory)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=traj3ctory&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="traj3ctory's streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=traj3ctory&theme=rising-sun&hide_border=true)](https://git.io/streak-stats)" alt="traj3ctory's streak" /></p>
+<br />
+<hr />
+<br />
 
 ## Github Trophies
 
@@ -61,7 +63,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=traj3ctory&theme=radical&column=6">
   </p>
 </details>
-
+<br />
+<hr />
+<br />
 ## Wakatime Stats
 
 <!-- > Expand to see details -->
@@ -70,11 +74,16 @@
     WakaTime Dashboard
   </summary>
   <p>
-    <img src="https://wakatime.com/share/@davebenard/10023645-ef3f-4fb0-b36e-0bd2e0912b17.svg" height="400" width="600">
+    <img src="https://wakatime.com/share/@davebenard/9a6905f1-0d47-4d5c-9840-cb460386c2d6.svg" height="500" width="700">
   </p>
 </div>
   
- ### 📫 You can reach me here:  
+<br />
+<hr />
+<br />
+
+### 📫 You can reach me here:
+
 <a href="https://www.linkedin.com/in/david-benard-196961121/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -84,7 +93,6 @@
  <a href="https://twitter.com/dav3ly" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  </a>
-
 
 <!--
 **Traj3ctory/Traj3ctory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
