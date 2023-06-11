@@ -5,6 +5,12 @@
 => I am always eager to learn new technologies :computer: and develop new projects.
 ```
 
+<div align='center'>
+ <h3> Profile Visit 🙈 </h3>
+
+![visitors](https://komarev.com/ghpvc/?username=traj3ctory)
+</div>
+
   <br />
 
 ## Menu
