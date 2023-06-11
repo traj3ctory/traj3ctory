@@ -9,6 +9,7 @@
  <h3> Profile Visit 🙈 </h3>
 
 ![visitors](https://komarev.com/ghpvc/?username=traj3ctory)
+
 </div>
 
   <br />
@@ -52,7 +53,7 @@
   <tr>
    <td>
    
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=traj3ctory&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/traj3ctory)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=traj3ctory&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/traj3ctory)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=traj3ctory&theme=rising-sun&hide_border=true)](https://git.io/streak-stats)" alt="traj3ctory's streak" /></p>
    </td>
    <td>
@@ -61,9 +62,7 @@
    </tr>
  </tbody>
  </table>
-<br />
 <hr />
-<br />
 
 ## Github Trophies
 
@@ -80,18 +79,20 @@
 <br />
 <hr />
 <br />
+
 ## Wakatime Stats
 
 <!-- > Expand to see details -->
+
 <div>
   <summary> 
     WakaTime Dashboard
   </summary>
-  <p>
-    <img src="https://wakatime.com/share/@davebenard/9a6905f1-0d47-4d5c-9840-cb460386c2d6.svg" height="500" width="700">
-  </p>
+    <img src="https://wakatime.com/share/@davebenard/355ce00a-0ba6-4559-8b28-ac8b3c95f517.svg" height="500" width="700">
+    <hr />
+   <img src="https://wakatime.com/share/@davebenard/82c469b6-9301-4fb6-86bc-09cb80685a8d.svg" >
 </div>
-  
+
 <br />
 <hr />
 <br />
