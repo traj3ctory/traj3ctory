@@ -47,13 +47,20 @@
 ### My Github Stats
 
 <br />
-
+<table>
+ <tbody>
+  <tr>
+   <td>
+   
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=traj3ctory&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/traj3ctory)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traj3ctory&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/traj3ctory) -->
-  <a href="https://github.com/traj3ctory" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=traj3ctory&langs_count=12&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Language" /></a>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=traj3ctory&theme=rising-sun&hide_border=true)](https://git.io/streak-stats)" alt="traj3ctory's streak" /></p>
+   </td>
+   <td>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traj3ctory&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/traj3ctory) -->
+  <a href="https://github.com/traj3ctory" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=traj3ctory&langs_count=12&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Language" /></a></td>
+   </tr>
+ </tbody>
+ </table>
 <br />
 <hr />
 <br />
