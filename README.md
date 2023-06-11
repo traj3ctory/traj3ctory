@@ -6,7 +6,9 @@
 ```
 <div align='center'>
  <h3> Profile Visit 🙈 </h3>
+ 
 ![visitors](https://komarev.com/ghpvc/?username=traj3ctory)
+ 
 </div>
 <hr />
 ### Technologies
