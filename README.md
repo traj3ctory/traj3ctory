@@ -4,30 +4,12 @@
 => A Software Engineer based in Abuja, Nigeria :nigeria: . <br />
 => I am always eager to learn new technologies :computer: and develop new projects.
 ```
-
 <div align='center'>
  <h3> Profile Visit 🙈 </h3>
-
 ![visitors](https://komarev.com/ghpvc/?username=traj3ctory)
-
 </div>
-
-  <br />
-
-## Menu
-
-- [Technology Stack](#technologies)
-- [Github Stats](#my-github-stats)
-- [Github Trophies](#github-trophies)
-- [:stopwatch: Wakatime Stats](#wakatime-stats)
-- [📱 Contact](#-You-can-reach-me-here)
-<br />
 <hr />
-<br />
-
 ### Technologies
-
-<br />
 
  <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,13 +23,9 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
  </p>
-<br />
 <hr />
-<br />
 
 ### My Github Stats
-
-<br />
 <table>
  <tbody>
   <tr>
