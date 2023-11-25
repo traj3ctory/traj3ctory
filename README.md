@@ -3,6 +3,7 @@
 ```
 => A Software Engineer based in Abuja, Nigeria :nigeria: . <br />
 => I am always eager to learn new technologies :computer: and develop new projects.
+=> <a href="https://bzdavid.netlify.com/" target="_blank">https://bzdavid.netlify.com/</a>
 ```
 <div align='center'>
  <h3> Profile Visit 🙈 </h3>
