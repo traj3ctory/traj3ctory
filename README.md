@@ -4,7 +4,7 @@
 => A Software Engineer based in Abuja, Nigeria :nigeria: . <br />
 => I am always eager to learn new technologies :computer: and develop new projects.
 ```
-<center><a href="https://bzdavid.netlify.com/" target="_blank" style="width:100%; color:white">https://bzdavid.netlify.com/</a></center>
+<center><u><a href="https://bzdavid.netlify.com/" target="_blank" style="color:white!important; font-size:1.5rem">https://bzdavid.netlify.com/</a></u></center>
 <div align='center'>
  <h3> Profile Visit 🙈 </h3>
  
