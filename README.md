@@ -68,11 +68,11 @@
   <summary> 
     WakaTime Dashboard
   </summary>
-    <img src="https://wakatime.com/share/@davebenard/355ce00a-0ba6-4559-8b28-ac8b3c95f517.svg" height="500" width="700">
+<!--     <img src="https://wakatime.com/share/@davebenard/355ce00a-0ba6-4559-8b28-ac8b3c95f517.svg" height="500" width="700"> -->
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@davebenard/317c3a59-7af4-40e1-8a22-dab83d098ea4.png" /></a>
     <hr />
 <!--    <img src="https://wakatime.com/share/@davebenard/82c469b6-9301-4fb6-86bc-09cb80685a8d.svg" > -->
  <figure><img src="https://wakatime.com/share/@davebenard/9444c962-ecd7-4194-90f0-a927f7e27370.svg"></embed></figure>
- <figure><embed src="https://wakatime.com/share/@davebenard/9444c962-ecd7-4194-90f0-a927f7e27370.svg"></embed></figure>
 </div>
 
 <br />
