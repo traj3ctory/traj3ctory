@@ -46,7 +46,7 @@
 
 ## Github Trophies
 
-> Expand to see my Github trophies
+> Expand to see my GitHub trophies
 
 <details>
   <summary> 
@@ -70,7 +70,8 @@
   </summary>
     <img src="https://wakatime.com/share/@davebenard/355ce00a-0ba6-4559-8b28-ac8b3c95f517.svg" height="500" width="700">
     <hr />
-   <img src="https://wakatime.com/share/@davebenard/82c469b6-9301-4fb6-86bc-09cb80685a8d.svg" >
+<!--    <img src="https://wakatime.com/share/@davebenard/82c469b6-9301-4fb6-86bc-09cb80685a8d.svg" > -->
+ <figure><embed src="https://wakatime.com/share/@davebenard/06273e67-80c8-4c45-ab48-247d7019f2e0.svg"></embed></figure>
 </div>
 
 <br />
