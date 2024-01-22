@@ -1,8 +1,8 @@
 ### Hi, I am David ✨ :man_technologist:,
 
 ```
-=> A Software Engineer based in Abuja, Nigeria :nigeria: . <br />
-=> I am always eager to learn new technologies :computer: and develop new projects.
+=> A Software Engineer based in Abuja, Nigeria 🇳🇬. <br />
+=> I am always eager to learn new technologies 👨🏻‍💻: and develop new projects.
 ```
  <h3> Profile Visit 🙈 </h3>
  
