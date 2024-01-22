@@ -71,7 +71,8 @@
     <img src="https://wakatime.com/share/@davebenard/355ce00a-0ba6-4559-8b28-ac8b3c95f517.svg" height="500" width="700">
     <hr />
 <!--    <img src="https://wakatime.com/share/@davebenard/82c469b6-9301-4fb6-86bc-09cb80685a8d.svg" > -->
- <figure><img src="https://wakatime.com/share/@davebenard/06273e67-80c8-4c45-ab48-247d7019f2e0.svg"></embed></figure>
+ <figure><img src="https://wakatime.com/share/@davebenard/9444c962-ecd7-4194-90f0-a927f7e27370.svg"></embed></figure>
+ <figure><embed src="https://wakatime.com/share/@davebenard/9444c962-ecd7-4194-90f0-a927f7e27370.svg"></embed></figure>
 </div>
 
 <br />
