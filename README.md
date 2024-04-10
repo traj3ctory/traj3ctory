@@ -36,7 +36,8 @@
    <td>
    
 <!--[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=traj3ctory&count_private=true&show_icons=true&theme=great-gatsby&include_all_commits=true)](https://github.com/traj3ctory) -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=traj3ctory&theme=rising-sun&hide_border=true&include_all_commits=true)](https://git.io/streak-stats)" alt="traj3ctory's streak" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=traj3ctory&theme=rising-sun&hide_border=true&border_radius=0&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+</p>
    </td>
    <td>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traj3ctory&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/traj3ctory)  -->
