@@ -30,7 +30,7 @@
 
 ### My Github Stats
 
-<table>
+<table style="display:none">
  <tbody>
   <tr>
    <td>
