@@ -4,7 +4,7 @@
 => A Software Engineer based in Abuja, Nigeria 🇳🇬 <br />
 => I am always eager to learn new technologies 👨🏻‍💻: and develop new projects.
 ```
-
+<div align="center">
  <h3> Profile Visit 🙈 </h3>
  
 ![visitors](https://komarev.com/ghpvc/?username=traj3ctory)
