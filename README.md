@@ -5,7 +5,7 @@
 => I am always eager to learn new technologies 👨🏻‍💻: and develop new projects.
 ```
 <div align="center">
- <h3> Profile Visit 🙈 </h3>
+ <h3> Profile Visit  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h3>
  
 ![visitors](https://komarev.com/ghpvc/?username=traj3ctory)
  
