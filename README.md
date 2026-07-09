@@ -23,6 +23,8 @@ Multi-app retail betting platform (Vue3 frontend + CMS) for a real-money betting
 
 **Casino Game Engine** — *Bitville*
 Contributed game logic, frontend implementation, and platform integration across multiple titles in a real-money casino game engine.
+
+
 ---
 
 ### Technologies
