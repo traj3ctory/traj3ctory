@@ -2,7 +2,7 @@
 
 Full Stack Software Engineer based in Abuja, Nigeria 🇳🇬 — 6+ years building web apps, backend services, and data-driven platforms across React, Vue, TypeScript, Django, and Node.
 
-Most of my production work lives in organization/client repositories rather than here — see [my portfolio](https://bzdavid.netlify.app) for case studies and live projects.
+**🔗 My production work is in private organization/client repos — see real case studies, screenshots, and my role on each project here: [bzdavid.netlify.app →](https://bzdavid.netlify.app)**
 
 <hr />
 
