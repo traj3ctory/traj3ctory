@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.app/?font=Fira+Code&weight=500&size=24&duration=3000&pause=50&color=60A5FA&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Building+production+systems;React+%7C+Vue+%7C+Django+%7C+Node;Based+in+Abuja%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC" alt="Typing SVG" />
-</p>
+### Hi, I'm David 👋
 
 Full Stack Software Engineer based in Abuja, Nigeria 🇳🇬 — 6+ years building web apps, backend services, gaming product interfaces, and data-driven health platforms.
 
