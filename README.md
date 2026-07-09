@@ -7,22 +7,50 @@ more case studies on [my portfolio →](https://bzdavid.netlify.app)
 
 ---
 
-### Featured work
+### 🚀 Featured work
 
-**eN-LIS** — National Laboratory Information System · *GGHN*
-Nationwide lab information system for Nigeria's public health labs — result workflows, sample tracking, reporting. React/TypeScript + Django/DRF, PostgreSQL, Docker, GitLab CI/CD.
+#### eN-LIS — National Laboratory Information System
+*GGHN*
 
-**National PHC Dashboard** — Data Engineering + Analytics · *GGHN*
-Data pipeline (collection, cleansing, DB management) plus interactive analytics/mapping platform for Nigeria's primary healthcare program, nationwide. Built the ETL pipeline validating and transforming health records collected via Kobo Collect. React, Leaflet, Django, PostgreSQL.
+Nationwide lab information system for Nigeria's public health labs — result workflows, sample tracking, reporting.
 
-**SwearIt (DSI)** — Digital Product Passports · *1840*
-Blockchain-backed platform verifying product origin and supply chain compliance via tamper-proof QR codes. Vue.js, TypeScript, Node.js — my longest-running codebase by commit history.
+`React` `TypeScript` `Django` `DRF` `PostgreSQL` `Docker` `GitLab CI/CD`
 
-**GOWIN / Retail Platform** — Live Betting Product · *Bitville*
-Multi-app retail betting platform (Vue3 frontend + CMS) for a real-money betting product.
+---
 
-**Casino Game Engine** — *Bitville*
+#### National PHC Dashboard — Data Engineering + Analytics
+*GGHN*
+
+Data pipeline (collection, cleansing, DB management) plus an interactive analytics/mapping platform for Nigeria's primary healthcare program, nationwide. Built the ETL pipeline validating and transforming health records collected via Kobo Collect.
+
+`React` `Leaflet` `Django` `PostgreSQL` `ETL`
+
+---
+
+#### SwearIt (DSI) — Digital Product Passports
+*1840*
+
+Blockchain-backed platform verifying product origin and supply chain compliance via tamper-proof QR codes. My longest-running codebase by commit history.
+
+`Vue.js` `TypeScript` `Node.js` `Blockchain`
+
+---
+
+#### GOWIN / Retail Platform — Live Betting Product
+*Bitville*
+
+Multi-app retail betting platform — frontend and CMS — for a real-money betting product.
+
+`Vue 3` `TypeScript`
+
+---
+
+#### Casino Game Engine
+*Bitville*
+
 Contributed game logic, frontend implementation, and platform integration across multiple titles in a real-money casino game engine.
+
+`TypeScript` `Game Engine` `Real-time`
 
 
 ---
