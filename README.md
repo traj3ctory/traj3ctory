@@ -2,7 +2,7 @@
 
 Full Stack Software Engineer based in Abuja, Nigeria 🇳🇬 — 6+ years building web apps, backend services, gaming product interfaces, and data-driven health platforms.
 
-Most of my production work lives in organization/client repos rather than here — a few highlights below, 
+Most of my production work lives in organization/client repos rather than here — <br /> A few highlights below, 
 more case studies on [my portfolio →](https://bzdavid.netlify.app)
 
 ---
@@ -13,20 +13,16 @@ more case studies on [my portfolio →](https://bzdavid.netlify.app)
 Nationwide lab information system for Nigeria's public health labs — result workflows, sample tracking, reporting. React/TypeScript + Django/DRF, PostgreSQL, Docker, GitLab CI/CD.
 
 **National PHC Dashboard** — Data Engineering + Analytics · *GGHN*
-Data pipeline (collection, cleansing, DB management) plus interactive analytics/mapping platform for Nigeria's primary healthcare program, nationwide. React, Leaflet, Django, PostgreSQL.
+Data pipeline (collection, cleansing, DB management) plus interactive analytics/mapping platform for Nigeria's primary healthcare program, nationwide. Built the ETL pipeline validating and transforming health records collected via Kobo Collect. React, Leaflet, Django, PostgreSQL.
 
 **SwearIt (DSI)** — Digital Product Passports · *1840*
 Blockchain-backed platform verifying product origin and supply chain compliance via tamper-proof QR codes. Vue.js, TypeScript, Node.js — my longest-running codebase by commit history.
 
 **GOWIN / Retail Platform** — Live Betting Product · *Bitville*
-Multi-app retail betting platform (Vue3 frontend + CMS).
+Multi-app retail betting platform (Vue3 frontend + CMS) for a real-money betting product.
 
 **Casino Game Engine** — *Bitville*
 Contributed game logic, frontend implementation, and platform integration across multiple titles in a real-money casino game engine.
-
-### Infrastructure & DevOps
-Server management + GitLab CI/CD (GGHN) · GitHub Actions + AWS (1840) · Dockerized deployments, Nginx, SSL across production/staging environments.
-
 ---
 
 ### Technologies
