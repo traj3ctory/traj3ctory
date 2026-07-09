@@ -2,7 +2,8 @@
 
 Full Stack Software Engineer based in Abuja, Nigeria 🇳🇬 — 6+ years building web apps, backend services, gaming product interfaces, and data-driven health platforms.
 
-Most of my production work lives in organization/client repos rather than here — a few highlights below, more case studies on [my portfolio →](https://bzdavid.netlify.app)
+Most of my production work lives in organization/client repos rather than here — a few highlights below, 
+more case studies on [my portfolio →](https://bzdavid.netlify.app)
 
 ---
 
