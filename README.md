@@ -24,24 +24,6 @@ Most of my production work lives in organization/client repositories rather than
 
 <hr />
 
-### GitHub Stats
-
-<table>
-  <tbody>
-    <tr>
-      <td><img src="https://streak-stats.demolab.com?user=traj3ctory&theme=rising-sun&hide_border=true&border_radius=0&exclude_days=Sun,Sat" alt="GitHub Streak" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=traj3ctory&langs_count=10&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="Top Languages" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<details>
-  <summary>GitHub Trophies</summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=traj3ctory&theme=radical&column=6" />
-</details>
-
-<hr />
-
 ### 📫 Reach me
 
 <a href="https://www.linkedin.com/in/david-benard-196961121/" target="_blank">
